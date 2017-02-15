@@ -1,5 +1,6 @@
 #! /usr/bin/python
 
+#please enter an input number
 numberInput = input("Enter a number:")
 number_string = str(numberInput)
 
